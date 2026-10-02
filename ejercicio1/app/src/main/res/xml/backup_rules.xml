@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 11 o inferior: excluye las preferencias cifradas de cualquier copia de seguridad -->
+<full-backup-content>
+    <exclude domain="sharedpref" path="secure_geo_prefs.xml" />
+</full-backup-content>

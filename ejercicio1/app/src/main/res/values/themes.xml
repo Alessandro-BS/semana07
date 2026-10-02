@@ -1,0 +1,4 @@
+<resources>
+    <!-- Sin ActionBar: el título se muestra en el layout y la vista se adapta a edge-to-edge (Android 15+) -->
+    <style name="Theme.GeoCheckIn" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>

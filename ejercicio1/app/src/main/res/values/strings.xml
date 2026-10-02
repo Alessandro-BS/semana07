@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeoCheckIn Seguro</string>
+    <string name="btn_check_in">Registrar Fichaje</string>
+    <string name="status_initial">Presione el botón para fichar…</string>
+    <string name="status_locating">Obteniendo ubicación segura…</string>
+    <string name="status_success">¡Fichaje exitoso!\nDistancia a la zona: %1$d m\nToken firmado y guardado de forma cifrada (…%2$s)</string>
+    <string name="status_out_of_zone">Fuera de la zona de fichaje (a %1$d m). Acérquese al centro de trabajo.</string>
+    <string name="status_mock">Ubicación simulada detectada. Fichaje rechazado.</string>
+    <string name="status_no_location">No se pudo obtener la ubicación actual. Verifique su GPS.</string>
+    <string name="status_error">Error al obtener ubicación: %1$s</string>
+    <string name="status_denied">Error: permiso de ubicación denegado.</string>
+    <string name="msg_precise_required">Se requiere ubicación precisa para validar la zona de fichaje.</string>
+    <string name="rationale_title">Permiso de ubicación</string>
+    <string name="rationale_message">La ubicación precisa es imprescindible para comprobar que se encuentra en la zona de trabajo al registrar su fichaje.</string>
+    <string name="btn_accept">Aceptar</string>
+    <string name="btn_cancel">Cancelar</string>
+</resources>
